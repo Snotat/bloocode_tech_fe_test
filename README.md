@@ -1,7 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## Getting Started
-
+First - Clone/download code 
+Second - Move into the folder from the terminal ie cd [folde name]
+Third - From the terminal run - npm install or yarn install
+from the terminal run - npm run dev or yan dev
 First, run the development server:
 
 ```bash
