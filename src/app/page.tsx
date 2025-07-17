@@ -16,8 +16,6 @@ export default function Home() {
 <LatestNews/>
 <FirstNews/>
 <OtherNews />
-<OtherNews />
-<OtherNews />
 <FeaturedStories/>
 <VideoNews />
 <TopStories/>
